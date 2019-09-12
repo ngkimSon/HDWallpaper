@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">HD Wallpaper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Amazing Wallpaper in your way</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_latest">Latest</string>
+    <string name="menu_categorie">Category</string>
+    <string name="menu_gif">GIFs</string>
+    <string name="menu_favorite">My Favorite</string>
+    <string name="menu_rate">Rate App</string>
+    <string name="menu_more">More App</string>
+    <string name="menu_about">About Us</string>
+    <string name="menu_setting">Setting</string>
+    <string name="menu_privacy">Privacy Police</string>
+
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="about">On average, nowadays, we check our phone over a hundred times a day. Our phone wallpaper being the first thing we see, it can really influence our mood and it is also a great way to express our unique personality.   This is why we launched Walli, a creative wallpapers app, to make sure you always have a cool wallpaper at hand. We think it’s important that you can easily find inspiring and beautiful wallpapers that will make you happy and feel great every time you pick up your phone.</string>
+    <string name="infoEmail">ngkim.sonn@gmail.com</string>
+    <string name="infoCompany">FPT Polytechnic</string>
+    <string name="infoWeb">http://www.facebook.com/sonkim.ng</string>
+    <string name="infoTell">(+84) 38 2415 818</string>
+    <string name="version">1.0.0</string>
+
+</resources>

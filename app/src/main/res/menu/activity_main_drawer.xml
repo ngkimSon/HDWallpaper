@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_latest"
+
+            android:icon="@drawable/lastest"
+            android:title="@string/menu_latest" />
+
+        <item
+            android:id="@+id/nav_cate"
+            android:icon="@drawable/category"
+            android:title="@string/menu_categorie" />
+
+        <item
+            android:id="@+id/nav_gif"
+            android:icon="@drawable/gifs"
+            android:title="@string/menu_gif" />
+
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/favorite"
+            android:title="@string/menu_favorite" />
+
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/rate"
+            android:title="@string/menu_rate" />
+
+        <item
+            android:id="@+id/nav_move"
+            android:icon="@drawable/moreapp"
+            android:title="@string/menu_more" />
+
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/about"
+            android:title="@string/menu_about" />
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/setting"
+            android:title="@string/menu_setting" />
+
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/privacy"
+            android:title="@string/menu_privacy" />
+
+
+    </group>
+
+</menu>
